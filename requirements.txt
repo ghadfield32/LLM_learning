@@ -1,0 +1,18 @@
+numpy
+pandas
+ipykernel
+python-docx
+torch
+tiktoken #gpt's tokenization (encoder and decoder), the tokenization is based on the original GPT-2 tokenization. It uses sub words rather than unique characters or words. It is a modified version of the original GPT-2 tokenization
+transformers
+nltk
+scikit-learn
+matplotlib
+seaborn
+gensim
+spacy
+matplotlib
+networkx
+pygraphviz
+tqdm
+ipywidgets
