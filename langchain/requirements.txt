@@ -1,0 +1,8 @@
+text-generation 
+transformers 
+google-search-results 
+numexpr 
+langchainhub 
+sentencepiece 
+jinja2
+langchain_community
